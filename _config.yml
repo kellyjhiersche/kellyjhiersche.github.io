@@ -218,7 +218,12 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
+# Publication Category
+publication_category:
+  manuscripts:
+    title: 'Journal Articles' 
+  preprints:
+    title: 'Preprints'
 # Collections
 collections:
   publications:
