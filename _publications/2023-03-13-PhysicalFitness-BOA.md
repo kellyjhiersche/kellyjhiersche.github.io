@@ -1,7 +1,7 @@
 ---
 title: "Examining cross-sectional and longitudinal relationships between multidomain physical fitness metrics, education, and cognition in Black older adults"
 collection: publications
-category: manuscripts
+category: Journal Articles
 permalink: /publication/2023-03-13-PhysicalFitness-BOA
 date: 2023-03-13
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/13825585.2023.2225848'
