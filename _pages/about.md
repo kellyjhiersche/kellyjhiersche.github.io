@@ -9,6 +9,6 @@ redirect_from:
 
 I am a  **Postdoctoral Associate** at the [McGovern Institute for Brain Research](https://mcgovern.mit.edu/) at MIT, working with  [Dr. Evelina Fedorenko](https://evlab.mit.edu/). My research focuses on understanding the neural representation of language in development, healthy individuals, and adults with aphasia.
 
-I completed my Ph.D. in Cognitive Neuroscience at The Ohio State University, working with [Dr. Zeynep Saygin] (https://www.zeynepsaygin.com/). My dissertation focused on characterizing the development of functionally specific brain regions and inter-individual variability across individuals. I have experience using functional MRI to look at cognitive processes in the fetal, infant, child, and adult brain. Prior to entering the world of psychology and cognitive neuroscience, I spent two years as a high school math teacher in Middlesboro, KY, aftering receiving my B.S. in Physics from Adelphi University.
+I completed my Ph.D. in Cognitive Neuroscience at The Ohio State University, working with [Dr. Zeynep Saygin](https://www.zeynepsaygin.com/). My dissertation focused on characterizing the development of functionally specific brain regions and inter-individual variability across individuals. I have experience using functional MRI to look at cognitive processes in the fetal, infant, child, and adult brain. Prior to entering the world of psychology and cognitive neuroscience, I spent two years as a high school math teacher in Middlesboro, KY, aftering receiving my B.S. in Physics from Adelphi University.
 
 ---
