@@ -23,7 +23,7 @@ repository               : "kellyjhiersche.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Kelly J Hiersche"
   pronouns         : "she/her"# example: "she/her"  
   bio              : "Postdoctoral Associate at MIT McGovern Institute for Brain Research"
