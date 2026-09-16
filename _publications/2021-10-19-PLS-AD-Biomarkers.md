@@ -2,7 +2,7 @@
 title: "Partial least squares analysis of Alzheimer’s disease biomarkers, modifiable health variables, and cognition in older adults with mild cognitive impairment"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-PLS-AD-Biomarkers
+permalink: /publication/2021-10-19-PLS-AD-Biomarkers
 date: 2022
 venue: 'Journal of the International Neuropsychological Society'
 paperurl: '[https://academicpages.github.io/files/paper1.pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC9094430/pdf/nihms-1789350.pdf)'
