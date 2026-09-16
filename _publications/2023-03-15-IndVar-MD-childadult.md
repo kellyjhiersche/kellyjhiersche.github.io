@@ -1,7 +1,7 @@
 ---
 title: "Individual variability in performance reflects selectivity of the multiple demand network among children and adults"
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/2023-03-15-IndVar-MD-childadult
 date: 2023-03-15
 venue: 'The Journal of neuroscience'
