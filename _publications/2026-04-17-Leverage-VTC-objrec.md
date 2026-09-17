@@ -1,5 +1,5 @@
 ---
-title: "Leveraging ventral temporal cortex's primary role in object recognition"
+title: "Leveraging ventral temporal cortexs primary role in object recognition"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-04-17-Leverage-VTC-objrec
