@@ -1,5 +1,5 @@
 ---
-title: "Comparison of signal decomposition techniques for analysis of human cortical signals"
+title: "Utilizing functional neuroimaging to study early language development"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-12-01-fMRI-earlylang-review
